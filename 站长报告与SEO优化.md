@@ -10,7 +10,7 @@
 ![image](https://i.loli.net/2019/06/09/5cfcce29bfb8a27731.jpg)
 
 - 索引量：在刚添加时，网站的索引量为零，虽然索引量仅有1而已，但是也是有所变化与提升的，从下图可以看出。
-![image](https://i.loli.net/2019/06/09/5cfcce25ea0c396081.jpg)
+![image](https://i.loli.net/2019/06/09/5cfcce26cee2832134.jpg)
 
 
 ### bing站长工具
